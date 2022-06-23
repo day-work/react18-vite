@@ -1,6 +1,6 @@
 Language : Українською🇷🇺 | [简体中文🇨🇳](./README.zh-CN.md) | [English 🇺🇸 ](./README.md)
 
-<h1 align="center">Карта записи 2.0 2.0</h1>
+<h1 align="center">2.0</h1>
 
 [![XTJvp4.png](https://s1.ax1x.com/2022/06/15/XTJvp4.png)](https://imgtu.com/i/XTJvp4)
 
