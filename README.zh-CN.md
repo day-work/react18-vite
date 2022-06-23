@@ -1,6 +1,6 @@
 Language : 简体中文 🇨🇳 | [Українською🇷🇺](./README.ru-RU.md) | [English 🇺🇸 ](./README.md)
 
-<h1 align="center">燃卡2.0</h1>
+<h1 align="center">2.0</h1>
 
 [![XTJvp4.png](https://s1.ax1x.com/2022/06/15/XTJvp4.png)](https://imgtu.com/i/XTJvp4)
 
