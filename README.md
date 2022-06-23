@@ -1,6 +1,6 @@
 Language : English 🇺🇸 | [简体中文🇨🇳](./README.zh-CN.md) | [Українською🇷🇺](./README.ru-RU.md)
 
-<h1 align="center">BurningCardWeb2.0</h1>
+<h1 align="center">2.0</h1>
 
 [![XTJvp4.png](https://s1.ax1x.com/2022/06/15/XTJvp4.png)](https://imgtu.com/i/XTJvp4)
 
